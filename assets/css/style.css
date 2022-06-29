@@ -454,7 +454,7 @@ img {
   .comments,.category-content {
     margin-right: auto;
     margin-left: auto;
-    width: 80%;
+    width: 88%;
     min-width: 300px;
     background-color: #fff;
   }
@@ -474,7 +474,7 @@ img {
   .post-content,.archive-contain {
     padding: 14px 40px;
     border-bottom: 1px solid #e6e6e6;
-    font-size: 15px;
+    font-size: 17px;
     color: #555;
     line-height: 200%;
   }
